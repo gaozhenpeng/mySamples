@@ -1,0 +1,6 @@
+127.0.0.1 - - [06/Dec/2014:16:51:24 +0800] "GET / HTTP/1.1" 200 262 http-bio-8080-exec-1 1682
+127.0.0.1 - - [06/Dec/2014:16:51:25 +0800] "GET /angular.min.js HTTP/1.1" 304 - http-bio-8080-exec-3 4
+127.0.0.1 - - [06/Dec/2014:16:51:25 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-4 4
+127.0.0.1 - - [06/Dec/2014:16:51:26 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-5 2
+127.0.0.1 - - [06/Dec/2014:16:52:02 +0800] "GET / HTTP/1.1" 200 252 http-bio-8080-exec-6 221
+127.0.0.1 - - [06/Dec/2014:16:52:02 +0800] "GET /angular.min.js HTTP/1.1" 304 - http-bio-8080-exec-10 2
