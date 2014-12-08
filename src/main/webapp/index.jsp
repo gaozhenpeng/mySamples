@@ -6,6 +6,6 @@
     <body>
         Your name: <input type="text" ng-model="yourname" placeholder="World">
         <hr>
-        Hello {{yourname }}!
+        Hello {{yourname}}!
     </body>
 </html>
